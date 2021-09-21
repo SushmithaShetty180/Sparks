@@ -1,1 +1,16 @@
-
+.content{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sign{
+    font-weight: bold;
+    color: black;
+}
+footer{
+    width: 100%;
+	left: 0px;
+	bottom: 0px;
+	position: absolute;
+}
